@@ -1,23 +1,23 @@
-name: Update LinkedIn Cards
+name: LinkedIn Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"  # Se ejecuta a medianoche
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-cards:
+  linkedin-cards:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate LinkedIn Cards
-        uses: alexcerezo/linkedin-cards@main
+      - uses: actions/checkout@v4
+      
+      - uses: alexcerezo/linkedin-cards@main
         with:
-          linkedin_cookie: ${{ secrets.LINKEDIN_COOKIE }}
-          linkedin_profile_url: "https://www.linkedin.com/in/pgdiazz"
-          max_posts: 4
+          apify_api_token: ${{ secrets.APIFY_API_TOKEN }}
+          linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
+          max_cards_to_generate: 4
+          language: en
+          include_reposts: 'true'

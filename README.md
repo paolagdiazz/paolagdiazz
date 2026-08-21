@@ -11,8 +11,9 @@
 ### Latest LinkedIn Posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <!-- END LINKEDIN-CARDS -->
-
-> LinkedIn cards generated automatically via [`alexcerezo/linkedin-cards`](https://github.com/alexcerezo/linkedin-cards).
+<p align="right">
+  <sub>Automated with <a href="https://github.com/alexcerezo/linkedin-cards" target="_blank">linkedin-cards</a> by <a href="https://github.com/alexcerezo" target="_blank">@alexcerezo</a></sub>
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/pgdiazz" target="_blank">
