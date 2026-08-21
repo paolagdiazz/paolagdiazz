@@ -18,6 +18,6 @@ jobs:
         with:
           apify_api_token: ${{ secrets.APIFY_API_TOKEN }}
           linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
-          max_cards_to_generate: 4
+          max_cards_to_generate: 2
           language: en
           include_reposts: 'true'
