@@ -1,0 +1,23 @@
+name: Update LinkedIn Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate LinkedIn Cards
+        uses: alexcerezo/linkedin-cards@main
+        with:
+          linkedin_cookie: ${{ secrets.LINKEDIN_COOKIE }}
+          linkedin_profile_url: "https://www.linkedin.com/in/pgdiazz"
+          max_posts: 4
