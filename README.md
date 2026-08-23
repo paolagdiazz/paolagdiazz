@@ -11,14 +11,14 @@
 ### Latest LinkedIn Posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/pgdiazz_djintern26-workingatdj-activity-7493688519945641985-M4kI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGzlkBABCD4Hzg7jRKWPLaqiYaCNvyQpIkk">
+  <a href="https://www.linkedin.com/posts/pgdiazz_djintern26-workingatdj-activity-7493688519945641985-M4kI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGzwHD8BowsHF0wtrxKFSiLIGyTjfduIhSI">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1786634569155-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1786634569155-light.svg">
       <img alt="LinkedIn Card 1" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1786634569155-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/pgdiazz_djintern26-workingatdj-activity-7490421217091563521-sqHY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGzlkBABCD4Hzg7jRKWPLaqiYaCNvyQpIkk">
+  <a href="https://www.linkedin.com/posts/pgdiazz_djintern26-workingatdj-activity-7490421217091563521-sqHY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGzwHD8BowsHF0wtrxKFSiLIGyTjfduIhSI">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1785855583451-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1785855583451-light.svg">
