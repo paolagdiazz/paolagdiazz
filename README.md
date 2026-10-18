@@ -11,18 +11,18 @@
 ### Latest LinkedIn Posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/pgdiazz_hackathon-activity-7510291185035456512-zN-a?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_OXz8BLuZAU_9T2UpaWHYHLAvtlr60hD4">
+  <a href="https://www.linkedin.com/posts/pgdiazz_what-a-week-three-hackathons-in-three-days-activity-7517262718781792256-eBJW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_gh0QBOx168U_dmZJhXRu3gvD8s9f24mg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-light.svg">
+      <img alt="LinkedIn Card 1" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/pgdiazz_hackathon-activity-7510291185035456512-zN-a?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_gh0QBOx168U_dmZJhXRu3gvD8s9f24mg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-light.svg">
-      <img alt="LinkedIn Card 1" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/pgdiazz_awssbgl-activity-7505218807297236993-qBSf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_OXz8BLuZAU_9T2UpaWHYHLAvtlr60hD4">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1789383603882-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1789383603882-light.svg">
-      <img alt="LinkedIn Card 2" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1789383603882-light.svg" width="320px">
+      <img alt="LinkedIn Card 2" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-light.svg" width="320px">
     </picture>
   </a>
 </p>
