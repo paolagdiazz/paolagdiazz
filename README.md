@@ -11,14 +11,14 @@
 ### Latest LinkedIn Posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/pgdiazz_what-a-week-three-hackathons-in-three-days-activity-7517262718781792256-eBJW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAHBmjQUB36uJm8A0gBh9sAzzpyArZ3fXLCg">
+  <a href="https://www.linkedin.com/posts/pgdiazz_what-a-week-three-hackathons-in-three-days-activity-7517262718781792256-eBJW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAHBtHzgBH36h4TXI-CbOZGLyt5MHTFtexSc">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-light.svg">
       <img alt="LinkedIn Card 1" src="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1792255096145-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/pgdiazz_hackathon-activity-7510291185035456512-zN-a?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAHBmjQUB36uJm8A0gBh9sAzzpyArZ3fXLCg">
+  <a href="https://www.linkedin.com/posts/pgdiazz_hackathon-activity-7510291185035456512-zN-a?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAHBtHzgBH36h4TXI-CbOZGLyt5MHTFtexSc">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/paolagdiazz/paolagdiazz/blob/main/cards/1790592952975-light.svg">
