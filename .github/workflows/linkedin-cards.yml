@@ -13,8 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: alexcerezo/linkedin-cards@main
+        continue-on-error: true
         with:
           apify_api_token: ${{ secrets.APIFY_API_TOKEN }}
           linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
